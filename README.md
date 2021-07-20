@@ -12,10 +12,10 @@ Study on relational database using MySQL database, developing an E-Commerce proj
 - [Git](https://git-scm.com/)
 - [Docker](https://www.docker.com/)
 
-### Data Bases:
+### Data Base:
 
 - [MySQL](https://www.mysql.com/)
 
-Data bases in docker hub:
+Data base in docker hub:
 
 - [MySQL](https://hub.docker.com/_/mysql)
